@@ -112,10 +112,12 @@
   <ItemGroup>
     <ClCompile Include="Arme.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Munition.cpp" />
     <ClCompile Include="Personnage.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Arme.h" />
+    <ClInclude Include="Munition.h" />
     <ClInclude Include="Personnage.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
